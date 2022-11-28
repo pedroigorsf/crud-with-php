@@ -8,6 +8,8 @@ CRUD with PHP, HTML, CSS.
 
 O Projeto tem como foco a de criar, ler, editar e deletar os registro do banco de dados e o conteúdo está sendo desenvolvido na língua inglesa.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a07c9f4c-4a33-47da-a66b-1da18d841a23/deploy-status)](https://app.netlify.com/sites/sys-with-php-and-mysql/deploys) - https://sys-with-php-and-mysql.netlify.app/
+
 
 ## Frameworks
 
